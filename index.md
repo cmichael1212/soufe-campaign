@@ -20,8 +20,6 @@ Welcome to the campaign hub for our D&D 5th Edition campaign.
 ## Lore
 
 - [Correspondence: Neverwinter Reunion](lore/correspondence_neverwinter_reunion)
-- [Vecna Character Integrations](lore/vecna_character_integrations)
-- [Campaign Keypoints](lore/keypoints)
 
 ---
 

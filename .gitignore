@@ -20,3 +20,8 @@ art/
 
 # RTF files
 *.rtf
+
+# DM-only content (never publish to GitHub)
+# Add files here that players should not see
+lore/vecna_character_integrations.md
+lore/keypoints.rtf
