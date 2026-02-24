@@ -1,0 +1,22 @@
+# Reference books and scans (published content - do not publish)
+reference/
+
+# Art assets (large files)
+art/
+
+# Binary files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.avif
+
+# macOS
+.DS_Store
+
+# Text duplicates (Discord copies)
+*.txt
+
+# RTF files
+*.rtf

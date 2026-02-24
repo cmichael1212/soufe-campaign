@@ -1,0 +1,13 @@
+title: "SOUFE - Series of Unfortunate Events"
+description: "Campaign documents for our D&D 5e campaign"
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+exclude:
+  - reference/
+  - "*.pdf"
+  - "*.png"
+  - "*.jpg"
+  - "*.webp"
+  - "*.avif"
+  - "*.txt"
