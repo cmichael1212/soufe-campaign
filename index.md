@@ -14,7 +14,6 @@ Welcome to the campaign hub for our D&D 5th Edition campaign.
 - [Ollum Hammersong — Hill Dwarf Bard/Paladin](characters/ollum/ollum_timeskip)
 - [Thulduran Gleamshadow — Deep Gnome Illusionist](characters/thulduran/thulduran_timeskip)
 - Jeff's Firbolg Barbarian (name TBD)
-- [General Character Notes](characters/general_character_notes)
 
 ---
 
@@ -24,19 +23,10 @@ Welcome to the campaign hub for our D&D 5th Edition campaign.
 
 ---
 
-## Monsters
-
-- [Nightscale — Black Dragon](monsters/nightscale)
-
----
-
 ## More Sections
 
 *Content coming soon:*
 
-- NPCs
 - Locations
-- Maps
+- Items & Handouts
 - Quests
-- Items
-- Rules
