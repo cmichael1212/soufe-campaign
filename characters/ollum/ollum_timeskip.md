@@ -302,6 +302,51 @@ P.S. — I AM mentionin' it to Thully. That gnome's got a telescope that can see
 
 ---
 
+## Follow-Up Report to His Majesty King Ollum Hammersong
+
+*From Bronn Ironmantle, Steward of Hammersong Hall. Year Five, month of Eleint. Sent via courier to Neverwinter. Not marked urgent, but the handwriting is more deliberate than usual, as though each word was weighed before it was set down.*
+
+---
+
+Your Majesty,
+
+Your orders from Tarsakh are carried out. Watch doubled. Earsa hired — she's good, and she doesn't talk more than the work requires, which I appreciate. Letters sent to Adbar and Mithral Hall. Adbar acknowledged receipt. Mithral Hall has not replied. I will leave that where it sits.
+
+This letter concerns a different matter.
+
+**The Firbolg.**
+
+I met someone in the foothills last tenday. A Firbolg — one of the forest folk from up near the Far Forest, or the Feywild side of it, if I understand him correctly, and I believe I do despite the fact that half of what he said about planar crossings went over my head.
+
+You've heard the stories. The farmers along the northern treeline talk about a shadowy figure in the woods — big, quiet, shows up when there's trouble with wildlife or when a caravan gets turned around in bad weather. They call him Connifer. Some think he's a spirit. Most just leave bread and dried meat at the forest edge and don't ask questions.
+
+He's real. His name is Kaelen Hazelheel. Goes by Connifer, as the stories say. He was in a half-elven disguise when I found him, but a six-foot half-elf with oak bark on his belt, hands like shovel blades, and a voice like a rockslide isn't fooling anyone who's paying attention. I was paying attention.
+
+Here's the relevant part: he's been tracking the dragon.
+
+Not our dragon specifically — he didn't know her history with the Hall. He'd been following the acid damage through the forest for tendays. Found those dead oaks I mentioned in my last report. Saw the creature fly over his camp one night, close enough to melt a leaf ten feet from his fire. He described the wingspan, the size, the way the trees — his words — *flinched* when it passed. His account matches Earsa's sightings exactly.
+
+He also said something I want you to hear, even though I can't fully assess it myself. He said the forests around the High Forest and the passages between here and the Feywild are destabilizing. Closing. He said the damage is bigger than one dragon — that something is pressing against the boundaries between the planes in a way he's never felt before. I don't know what to make of that. I'm a dwarf. I know stone and steel, not planar theory. But he wasn't guessing. He was reporting, the way a scout reports what he's seen on the ground. Whatever he's sensing, he believes it.
+
+I gave him a letter for you — an update on the river situation and Earsa's latest findings. He's headed to Neverwinter. His reasons are his own, but he didn't object to carrying word, and I judged him trustworthy enough for it. I've been reading people for thirty years, Your Majesty, and this one is what he appears to be: a protector who's run out of forest to protect by himself.
+
+He knows your name. Everyone in the foothills does — the young dwarf king who reclaimed Hammersong Hall. I won't pretend the northern folk have all decided you're legitimate, but they know you're there, and they know you fight for what's yours. That counts for something with a Firbolg. Their code puts honor and action above titles and birth. You'd get along, I think. You're both stubborn about the right things.
+
+If a very tall half-elf with red hair and a bark case on his belt walks into whatever tavern you're drinking at and asks for King Ollum, hear him out. He's seen the dragon up close and he knows the forest in ways we don't. We could use that.
+
+And Your Majesty — this is not the sort of thing I'd normally put in a report, but I'll say it plainly because you told me to always speak plainly. I sat with this Firbolg for an afternoon and watched him press his hand to a dead tree and go quiet for a long time. Whatever he felt in that tree, it bothered him the way the river bothers me. The way the dragon bothers me. The kind of bother that doesn't go away with a good night's sleep.
+
+Something is wrong beyond the dragon, and the people who can feel it are all moving in the same direction.
+
+Toward Neverwinter.
+
+Your servant,
+Bronn Ironmantle
+
+P.S. — He's bigger than he looks, even in disguise. Don't arm wrestle him.
+
+---
+
 ## A Song, Unfinished
 
 *Found among King Ollum's personal effects at Hammersong Hall. Year Five. Written in his hand, with several crossed-out lines and ale rings on the margins.*

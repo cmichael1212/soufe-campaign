@@ -25,3 +25,6 @@ art/
 # Add files here that players should not see
 lore/vecna_character_integrations.md
 lore/keypoints.rtf
+
+# Current session prep (temporary working files)
+current_session/
