@@ -21,12 +21,7 @@ Welcome to the campaign hub for our D&D 5th Edition campaign.
 
 - [Correspondence: Neverwinter Reunion](act1/ch1-reunion/correspondence_neverwinter_reunion)
 - [The Serpent Grove — A Tale of Kaelen](characters/kaelen/kaelen_battle_feywild)
-
----
-
-## Items & Handouts
-
-- [Rhaugilath the Hidden — Sentient Spellbook](characters/thulduran/rhaugilath_player_sheet)
+- [The Hammersong Accord — Ollum & Lord Neverember](characters/ollum/ollum_hammersong_accord)
 
 ---
 
